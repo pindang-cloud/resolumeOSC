@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "express": "^4.21.2",
+    "hooper": "^0.3.4",
+    "osc": "^2.4.5",
+    "ws": "^8.18.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.5.1",
+    "tailwindcss": "^3.4.17"
+  }
+}
